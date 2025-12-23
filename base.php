@@ -65,7 +65,7 @@ Sinon, affichez :
 Vous êtes mineur.
 Ce qu’il faut utiliser : if , opérateurs de comparaison ( >= ), echo .--> <br>
 <?php
-$age = 54;          
+$age = 24;          
 if ($age >= 18) {
     echo "Vous etes majeur.";
     } else {
