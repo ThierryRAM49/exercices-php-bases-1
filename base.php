@@ -51,7 +51,7 @@ $nom
 <?php
 $prenom = "Thierry";
 $nom = "RAMANITRA";
-$age = 54;
+$age = 24;
 echo "Bonjour, je m'appelle $prenom $nom et j'ai $age ans.";
 ?>
 
